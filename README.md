@@ -58,7 +58,7 @@ Inventory holding cost reduction potential: 8% annually
 Excess stock categories identified (12% overstock concentration)
 
 
-6/ Business Impact
+6. Business Impact
 
 If implemented operationally, this predictive model enables:
 
